@@ -28,7 +28,7 @@ class TestObjectDetection(unittest.TestCase):
         self.assertTrue(all(isinstance(result, dict) for result in results))
         self.assertTrue(all("frame_number" in result and "objects" in result and "no_of_objects" in result and "image_name" in result for result in results))
 
-        # You can add more specific assertions based on your requirements
+    
 
 if __name__ == '__main__':
     unittest.main()
