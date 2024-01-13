@@ -2,14 +2,6 @@
 
 **YOLO (You Only Look Once)** is a very powerful and a fast algorithm in object detection. A strong understanding of the algorithm is essential before we start to code.
 
-**Some important papers to start with -**
-
-There are three papers you need to go through *(Maybe difficult to understand initially, but worth reading it)*
-
-- [You Only Look Once: Unified, Real-Time Object Detection](https://pjreddie.com/media/files/papers/yolo.pdf)
-- [YOLO9000: Better, Faster, Stronger](https://pjreddie.com/media/files/papers/YOLO9000.pdf)
-- [YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/papers/YOLOv3.pdf)
-
 We are going to use YOLO v3 for our coding purpose in this repository.
 
 *Before going to code, we need to download some important YOLO files. It's the folder that's present in this repository as yolo-coco*
