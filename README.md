@@ -10,7 +10,7 @@ The three files that needs to be downloaded are -
 
 - [coco.names](https://github.com/pjreddie/darknet/blob/master/data/coco.names)
 - [yolov3.cfg](https://github.com/pjreddie/darknet/blob/master/cfg/yolov3.cfg)
-- [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights)
+- [yolov3.weights](https://pjreddie.com/media/files/yolov3.weights) 
 
 Download these files and save it inside a folder. Name the folder anything you wish, but I have named it as **yolo-coco** just because of the fact that we are going to use the coco dataset objects.
 
