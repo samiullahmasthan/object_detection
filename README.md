@@ -32,14 +32,14 @@ You can now run the file by giving this command on your command promt
 ```
 python yolo.py
 
-
+```
 for api document on your command prompt
-
+```
 pip install flask
 pip install flask restX
-
+```
 to run api on your command promt
-
+```
 python api.py
-
+```
 # object_detection
